@@ -1,7 +1,12 @@
 node_modules/
 .env
+<<<<<<< HEAD
 .env.*
 !.env.example
 .DS_Store
 dist/
 build/
+=======
+.DS_Store
+dist/
+>>>>>>> 1d4f10c560bd6945cff3ac692869b795dcf76aa4
